@@ -2,7 +2,8 @@ package springFW.ex03.di03;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.AbstractApplicationContext;
-import org.springframework.context.support.GenericXmlApplicationContext;
+
+import springFW.com.coderby.myapp.member.MemberController;
 
 public class HelloMain {
 
@@ -13,8 +14,8 @@ public class HelloMain {
 //		context = new GenericXmlApplicationContext("classpath:config/di03/application-config.xml");
 		context = new AnnotationConfigApplicationContext(AppConfig.class);
 		
-		HelloController controller = context.getBean("helloController", HelloController.class);
-		controller.hello("홍길동");
+		MemberController controller = context.getBean("helloController", HelloController.class);
+		controller.printInfo();
 		
 		context.close();
 	}
