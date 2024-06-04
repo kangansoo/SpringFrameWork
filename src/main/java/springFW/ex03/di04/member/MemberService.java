@@ -1,4 +1,4 @@
-package springFW.ex03.di04.member;
+package springFw.ex03.di04.member;
 
 public class MemberService implements IMemberService {
 

@@ -1,4 +1,4 @@
-package springFW.ex03.di03;
+package springFw.ex03.di03;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

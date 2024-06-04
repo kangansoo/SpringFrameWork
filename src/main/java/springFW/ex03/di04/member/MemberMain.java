@@ -1,9 +1,9 @@
-package springFW.ex03.di04.member;
+package springFw.ex03.di04.member;
 
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
-import springFW.ex03.di03.HelloController;
+import springFw.ex03.di03.HelloController;
 
 public class MemberMain {
 

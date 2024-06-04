@@ -1,4 +1,4 @@
-package springFW.ex03.di04;
+package springFw.ex03.di04;
 
 import org.springframework.beans.factory.annotation.Configurable;
 import org.springframework.context.annotation.Bean;

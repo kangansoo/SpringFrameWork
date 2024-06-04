@@ -1,4 +1,4 @@
-package springFW.ex01.basic;
+package springFw.ex01.basic;
 
 public class HelloWorld {
 

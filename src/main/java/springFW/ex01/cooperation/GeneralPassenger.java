@@ -1,4 +1,4 @@
-package springFW.ex01.cooperation;
+package springFw.ex01.cooperation;
 
 public class GeneralPassenger implements Passenger{
 	private String name = "";

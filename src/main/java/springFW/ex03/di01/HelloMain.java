@@ -1,4 +1,4 @@
-package springFW.ex03.di01;
+package springFw.ex03.di01;
 
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.GenericXmlApplicationContext;

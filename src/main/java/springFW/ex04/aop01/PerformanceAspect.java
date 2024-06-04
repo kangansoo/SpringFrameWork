@@ -1,4 +1,4 @@
-package springFW.ex04.aop01;
+package springFw.ex04.aop01;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.Signature;

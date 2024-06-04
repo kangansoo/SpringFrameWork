@@ -1,4 +1,4 @@
-package springFW.ex03.di02;
+package springFw.ex03.di02;
 
 public class Person {
 	private String name;

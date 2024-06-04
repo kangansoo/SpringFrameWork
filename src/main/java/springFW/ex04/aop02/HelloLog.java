@@ -1,4 +1,4 @@
-package springFW.ex04.aop02;
+package springFw.ex04.aop02;
 
 public class HelloLog {
 	public static void log() {

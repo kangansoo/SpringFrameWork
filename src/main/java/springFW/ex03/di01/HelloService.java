@@ -1,4 +1,4 @@
-package springFW.ex03.di01;
+package springFw.ex03.di01;
 
 public class HelloService implements IHelloService {
 

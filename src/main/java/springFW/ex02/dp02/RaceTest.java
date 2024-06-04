@@ -1,4 +1,4 @@
-package springFW.ex02.dp02;
+package springFw.ex02.dp02;
 
 public class RaceTest {
 

@@ -1,4 +1,4 @@
-package springFW.ex04.aop01;
+package springFw.ex04.aop01;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

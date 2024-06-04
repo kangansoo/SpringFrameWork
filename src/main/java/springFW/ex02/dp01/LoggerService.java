@@ -1,4 +1,4 @@
-package springFW.ex02.dp01;
+package springFw.ex02.dp01;
 
 import java.util.Scanner;
 

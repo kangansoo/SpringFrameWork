@@ -1,4 +1,4 @@
-package springFW.ex04.aop02;
+package springFw.ex04.aop02;
 
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.GenericXmlApplicationContext;

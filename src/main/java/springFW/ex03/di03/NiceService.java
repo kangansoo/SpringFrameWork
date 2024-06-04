@@ -1,4 +1,4 @@
-package springFW.ex03.di03;
+package springFw.ex03.di03;
 
 import org.springframework.stereotype.Service;
 

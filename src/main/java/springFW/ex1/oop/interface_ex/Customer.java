@@ -1,4 +1,4 @@
-package springFW.ex1.oop.interface_ex;
+package springFw.ex1.oop.interface_ex;
 
 public class Customer implements Buy, Sell{
 

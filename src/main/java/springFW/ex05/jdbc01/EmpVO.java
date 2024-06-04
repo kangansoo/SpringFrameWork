@@ -1,4 +1,4 @@
-package springFW.ex05.jdbc01;
+package springFw.ex05.jdbc01;
 
 import java.util.Date;
 

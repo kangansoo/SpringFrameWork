@@ -1,4 +1,4 @@
-package springFW.ex02.dp03;
+package springFw.ex02.dp03;
 
 public class Singleton {
 	private static Singleton singleton = null;
